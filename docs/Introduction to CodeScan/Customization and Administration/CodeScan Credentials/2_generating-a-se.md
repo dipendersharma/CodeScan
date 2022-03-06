@@ -10,7 +10,7 @@ Security tokens allow you to authenticate integrations such as your IDE or CI to
 To generate the security tokens, follow the steps below:
 
 1. Click on **My Account** at the top right of your screen to generate the tokens. 
-![image.png](https://cdn.document360.io/8711f4e7-c040-4616-aac9-d947f87e4619/Images/Documentation/image%28225%29.png){height="" width=""}
+![image.png](https://github.com/dipendersharma/CodeScan/blob/main/docs/Media/Images/image(225).png){height="" width=""}
 
 2. Next, click on **Security** tab.
 ![image.png](https://cdn.document360.io/8711f4e7-c040-4616-aac9-d947f87e4619/Images/Documentation/image%28226%29.png){height="" width=""}
