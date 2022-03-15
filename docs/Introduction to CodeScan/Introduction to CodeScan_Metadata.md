@@ -12,3 +12,7 @@ CodeScan is a platform for continuous inspection of code quality and security. W
 4.  Increase productivity by automating the [code review](https://www.codescan.io/blog/integrating_static_code_analysis_tools/) process.
 5.  Save time and allow dev teams to focus on what matters the most.
 6.  Enforce standards by enabling you to define your rules for your org.
+
+# Overview of CodeScan UI Page
+![image](https://user-images.githubusercontent.com/29546746/158452019-d0963aaa-74c5-49ee-b834-c54d36443e86.png)
+
