@@ -1,10 +1,3 @@
-## Metadata_Start
-## title: Release Notes 22.2
-## original-url : https://knowledgebase.autorabit.com/docs/release-notes-222
-## article-id : d76586eb-a0cf-40f9-b6c6-f4cd2a2a520a
-## seo-title : 
-## description : 
-## Metadata_End
 ## CodeScan 22.2
 **Released Date: 26 Jan 2022**
 
